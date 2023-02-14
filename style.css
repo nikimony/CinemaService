@@ -11,7 +11,7 @@ body {
 }
 .header {
     background-color: rgb(47, 47, 47);
-    backdrop-filter: blur(30px);
+    backdrop-filter: blur(30%);
     padding: 20px;
 }
 .header_body {
